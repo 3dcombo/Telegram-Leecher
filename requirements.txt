@@ -10,7 +10,7 @@ opencv-python
 Pillow
 psutil
 pytz
-#Moi
+#Change for pyrofork
 pyroblack==2.4.4
 #pyrofork
 #pyrofork==2.2.11
