@@ -104,7 +104,8 @@ class MSG:
 
 
 class Aria2c:
-    link_info = False
+    #link_info = False
+    link_info = True
     pic_dwn_url = "https://picsum.photos/seed/picsum/1200/800"
 
 
